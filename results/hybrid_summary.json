@@ -1,0 +1,23 @@
+{
+  "cold_start": {
+    "converged_pct": 86.33,
+    "iters_mean": 9.710471446774006,
+    "iters_median": 8.0,
+    "iters_p99": 51.0,
+    "iters_max": 100,
+    "wrong_elbow": 6571,
+    "final_err_max": 2.3505376922776766,
+    "batch_ms": 684.3923000005816
+  },
+  "hybrid": {
+    "converged_pct": 100.0,
+    "iters_mean": 2.8236,
+    "iters_median": 3.0,
+    "iters_p99": 6.0,
+    "iters_max": 8,
+    "wrong_elbow": 0,
+    "final_err_max": 9.998087508238e-11,
+    "batch_ms": 180.9653000000253
+  },
+  "analytical_batch_ms": 4.471549999379931
+}

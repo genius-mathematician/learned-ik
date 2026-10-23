@@ -1,0 +1,25 @@
+{
+  "same_iters_pct": 100.0,
+  "max_angle_diff_rad": 5.417888360170764e-14,
+  "original": {
+    "converged_pct": 100.0,
+    "iters_mean": 3.16885,
+    "iters_median": 3.0,
+    "iters_p99": 6.009999999998399,
+    "iters_max": 9,
+    "wrong_elbow": 0,
+    "final_err_max": 9.998990013883868e-11,
+    "refine_ms": 78.82829999925889
+  },
+  "fast": {
+    "converged_pct": 100.0,
+    "iters_mean": 3.16885,
+    "iters_median": 3.0,
+    "iters_p99": 6.009999999998399,
+    "iters_max": 9,
+    "wrong_elbow": 0,
+    "final_err_max": 9.998996670016213e-11,
+    "refine_ms": 14.033949999429751
+  },
+  "speedup": 5.616971700943923
+}
